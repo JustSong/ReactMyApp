@@ -1,3 +1,10 @@
+# Getting Started with Docker
+
+1. Use `docker build .` to build the imabe
+2. Use `docker run -p 3000:3000 <image_id>` to create the container
+3. Use `docker ps` to see your container
+4. Use `docker stop <name>` to shutdown the container
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
